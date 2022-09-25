@@ -23,4 +23,4 @@ The api_credentials.py file is where I kept my API credentials for secrecy. Anot
 
 The requirements.txt file contains the command line arguments necessary to install all of the necessary packages to run the main program. The main program will automatically read this file and install any packages not already installed on your computer. You do not need to manually install these packages.
 
-The sentiment_model.ipynb is the main file that contains the entire NLP pipeline. It contains approximately 700 lines of code.
+
